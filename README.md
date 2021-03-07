@@ -1,4 +1,4 @@
-# Transformer_translation_gpu
+# Transformer-translation-gpu
 * 翻訳（Transformer）のプログラム
 
 ## リポジトリ構成
